@@ -6,5 +6,5 @@ function mkcd() {
 }
 
 function cls() {
-	printf "\033[3J\033[H"
+	clear
 }
