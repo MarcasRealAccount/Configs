@@ -1,4 +1,4 @@
-alias "ll0ls -lGAh"
+alias "ll=ls -lGAh"
 
 function mkcd() {
 	mkdir -p $1
